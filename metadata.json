@@ -1,0 +1,7 @@
+{
+  "name": "Stacks",
+  "description": "AI-powered infinite canvas for notes, images, and creative organization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+
+# Only include what's in package.json "files" field
+# (This file is a safety net)
+!bin/
+!bin/**
+!dist/
+!dist/**
+!electron/
+!electron/**
+!README.md
+!package.json
+
+# Always exclude
+node_modules
+.git
+.github
+*.log
+.env*
+.DS_Store
+*.map
+*.d.ts
